@@ -17,7 +17,7 @@ while (true) {
 console.log('El arreglo generado es:', ciudades);
 console.log('La longitud del arreglo es:', ciudades.length);
 
-console.log('Las ciudades ingresadas son lala:');
+console.log('Las ciudades ingresadas son florflor');
 for (let i = 0; i < ciudades.length; i++) {
   console.log(ciudades[i]);
 }
